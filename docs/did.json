@@ -1,0 +1,23 @@
+{
+  "@context": "https://www.w3.org/ns/did/v1",
+  "id": "did:web:uchiyoshi102.github.io:uchiyoshi-gh-pages-did",
+  "verificationMethod": [
+    {
+      "id": "did:web:uchiyoshi102.github.io:uchiyoshi-gh-pages-did#key1",
+      "type": "EcdsaSecp256k1VerificationKey2019",
+      "controller": "did:web:uchiyoshi102.github.io:uchiyoshi-gh-pages-did",
+      "publicKeyJwk": {
+        "kty": "EC",
+        "x": "23OTphEOSFkRTiJxksr-O0IETqO9E_aKRHxtyjxchtM",
+        "y": "UxgB3kv5vqkgKDIfih3JTO2kqd7EnAyMqyhHTVvczDU",
+        "crv": "secp256k1"
+      }
+    }
+  ],
+  "authentication": [
+    "did:web:uchiyoshi102.github.io:uchiyoshi-gh-pages-did#key1"
+  ],
+  "assertionMethod": [
+    "did:web:uchiyoshi102.github.io:uchiyoshi-gh-pages-did#key1"
+  ]
+}
