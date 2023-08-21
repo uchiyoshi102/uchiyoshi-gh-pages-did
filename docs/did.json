@@ -8,8 +8,8 @@
       "controller": "did:web:uchiyoshi102.github.io:uchiyoshi-gh-pages-did",
       "publicKeyJwk": {
         "kty": "EC",
-        "x": "23OTphEOSFkRTiJxksr-O0IETqO9E_aKRHxtyjxchtM",
-        "y": "UxgB3kv5vqkgKDIfih3JTO2kqd7EnAyMqyhHTVvczDU",
+        "x": "XqQMDLfE7l0upkkl9LKOh_8pb1bkpjAFIMGN1vDyakw",
+        "y": "aCL5VDN24zzLik_fbvNH92gPqqopKQv_yZ-z8RG_tpw",
         "crv": "secp256k1"
       }
     }
